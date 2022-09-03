@@ -6,4 +6,4 @@ Some programming challenges in Python help to introduce AI topics and expand you
 
 #### Solutions differ from one to one, mine can only gives you hint if needed. 
 ##### Linked In: www.linkedin.com/in/menna-omran
-
+###### The solution for Gradient Decent is not completed so I did't upload it.
